@@ -1,5 +1,11 @@
 # ponder
 
+## 0.11.6
+
+### Patch Changes
+
+- [#1774](https://github.com/ponder-sh/ponder/pull/1774) [`21b6840`](https://github.com/ponder-sh/ponder/commit/21b6840c67cfe750cb6660da31db1a0031ab12bd) Thanks [@scottrepreneur](https://github.com/scottrepreneur)! - Fixed broken docs links.
+
 ## 0.11.5
 
 ### Patch Changes
